@@ -1,4 +1,7 @@
-### Hi there 👋
+# Johan Alkstål
+
+### JavaScript developer
+### Graphic Designer
 
 <!--
 **johanalkstal/johanalkstal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
