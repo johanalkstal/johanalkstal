@@ -1,7 +1,8 @@
-# Johan Alkstål
+## Johan Alkstål
 
-### JavaScript developer
-### Graphic Designer
+- 👨🏻‍💻 I build frontends and write JavaScript for [Doctrin](https://doctrin.se/en/).
+- 👨🏻‍🎨 I design and create graphics for [Octane.gg](https://octane.gg/) and [IEL](https://imperialesportsleague.co.uk/).
+- 😅 I rarely finish anything I put up on GitHub.
 
 <!--
 **johanalkstal/johanalkstal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
