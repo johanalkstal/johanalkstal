@@ -1,6 +1,6 @@
 ## Johan Alkstål
 
-- 👨🏻‍💻 I build frontends and write JavaScript for [Trustbit](https://trustbit.tech/).
+- 👨🏻‍💻 I build web applications for [Trustbit](https://trustbit.tech/).
 - 👨🏻‍🎨 I've designed graphics and created Rocket League overlays for [Octane.gg](https://octane.gg/), [Svenska Raketligan](https://svenskaraketligan.se) & [RocketSundays](https://www.sundaysesport.co.uk/rocket-sundays).
 - 😅 I rarely finish anything I put up on GitHub.
 
