@@ -14,14 +14,3 @@ Some technologies I enjoy!
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,deno,nodejs,remix,rust,solidjs,svelte,tailwind,ts,vercel,vite,vscode)](https://skillicons.dev)
 
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://alkstal-github-readme-stats.vercel.app/api?username=johanalkstal&show_icons=true&theme=algolia" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://alkstal-github-readme-stats.vercel.app/api/top-langs/?username=johanalkstal&theme=algolia&card_width=480" />
-</a>
-
-
-
