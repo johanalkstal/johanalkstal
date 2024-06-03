@@ -4,7 +4,7 @@
 
 <br>
 
-- 👨🏻‍💻 I build web applications for [Trustbit](https://trustbit.tech/).
+- 👨🏻‍💻 I build web applications for [TIMETOACT GROUP](https://www.timetoact-group.at/en).
 - 👨🏻‍🎨 I've designed graphics and created Rocket League overlays for [Octane.gg](https://octane.gg/), [Svenska Raketligan](https://svenskaraketligan.se) & [RocketSundays](https://www.sundaysesport.co.uk/rocket-sundays).
 - 🏗️ I'm always experimenting and learning new things.
 
@@ -12,5 +12,5 @@
 
 Some technologies I enjoy!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,deno,nodejs,remix,rust,solidjs,svelte,tailwind,ts,vercel,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,deno,html,htmx,js,nodejs,nuxtjs,solidjs,svelte,tailwind,ts,vite,vscode,vue)](https://skillicons.dev)
 
